@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\Bilgeadam\KET\MVC\BilgeAdam.API\BilgeAdam.Business\bin\Release\BilgeAdam.Business.dll
+C:\Users\turka\source\repos\Kurumsal\Bilgeadam\KET\MVC\BilgeAdam.API\BilgeAdam.Business\bin\Release\BilgeAdam.Business.pdb
+C:\Users\turka\source\repos\Kurumsal\Bilgeadam\KET\MVC\BilgeAdam.API\BilgeAdam.Business\bin\Release\BilgeAdam.DataAccess.dll
+C:\Users\turka\source\repos\Kurumsal\Bilgeadam\KET\MVC\BilgeAdam.API\BilgeAdam.Business\bin\Release\BilgeAdam.Models.dll
+C:\Users\turka\source\repos\Kurumsal\Bilgeadam\KET\MVC\BilgeAdam.API\BilgeAdam.Business\bin\Release\EntityFramework.dll
+C:\Users\turka\source\repos\Kurumsal\Bilgeadam\KET\MVC\BilgeAdam.API\BilgeAdam.Business\bin\Release\BilgeAdam.DataAccess.pdb
+C:\Users\turka\source\repos\Kurumsal\Bilgeadam\KET\MVC\BilgeAdam.API\BilgeAdam.Business\bin\Release\BilgeAdam.DataAccess.dll.config
+C:\Users\turka\source\repos\Kurumsal\Bilgeadam\KET\MVC\BilgeAdam.API\BilgeAdam.Business\bin\Release\BilgeAdam.Models.pdb
+C:\Users\turka\source\repos\Kurumsal\Bilgeadam\KET\MVC\BilgeAdam.API\BilgeAdam.Business\bin\Release\BilgeAdam.Models.dll.config
+C:\Users\turka\source\repos\Kurumsal\Bilgeadam\KET\MVC\BilgeAdam.API\BilgeAdam.Business\bin\Release\EntityFramework.xml
+C:\Users\turka\source\repos\Kurumsal\Bilgeadam\KET\MVC\BilgeAdam.API\BilgeAdam.Business\obj\Release\BilgeAdam.Business.csprojAssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Bilgeadam\KET\MVC\BilgeAdam.API\BilgeAdam.Business\obj\Release\BilgeAdam.Business.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Bilgeadam\KET\MVC\BilgeAdam.API\BilgeAdam.Business\obj\Release\BilgeAdam.Business.csproj.CopyComplete
+C:\Users\turka\source\repos\Kurumsal\Bilgeadam\KET\MVC\BilgeAdam.API\BilgeAdam.Business\obj\Release\BilgeAdam.Business.dll
+C:\Users\turka\source\repos\Kurumsal\Bilgeadam\KET\MVC\BilgeAdam.API\BilgeAdam.Business\obj\Release\BilgeAdam.Business.pdb

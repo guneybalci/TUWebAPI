@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\Bilgeadam\KET\MVC\BilgeAdam.API\BilgeAdam.DataAccess\bin\Debug\BilgeAdam.DataAccess.dll.config
+C:\Users\turka\source\repos\Kurumsal\Bilgeadam\KET\MVC\BilgeAdam.API\BilgeAdam.DataAccess\bin\Debug\BilgeAdam.DataAccess.dll
+C:\Users\turka\source\repos\Kurumsal\Bilgeadam\KET\MVC\BilgeAdam.API\BilgeAdam.DataAccess\bin\Debug\BilgeAdam.DataAccess.pdb
+C:\Users\turka\source\repos\Kurumsal\Bilgeadam\KET\MVC\BilgeAdam.API\BilgeAdam.DataAccess\bin\Debug\BilgeAdam.Models.dll
+C:\Users\turka\source\repos\Kurumsal\Bilgeadam\KET\MVC\BilgeAdam.API\BilgeAdam.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\turka\source\repos\Kurumsal\Bilgeadam\KET\MVC\BilgeAdam.API\BilgeAdam.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\turka\source\repos\Kurumsal\Bilgeadam\KET\MVC\BilgeAdam.API\BilgeAdam.DataAccess\bin\Debug\BilgeAdam.Models.pdb
+C:\Users\turka\source\repos\Kurumsal\Bilgeadam\KET\MVC\BilgeAdam.API\BilgeAdam.DataAccess\bin\Debug\BilgeAdam.Models.dll.config
+C:\Users\turka\source\repos\Kurumsal\Bilgeadam\KET\MVC\BilgeAdam.API\BilgeAdam.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\turka\source\repos\Kurumsal\Bilgeadam\KET\MVC\BilgeAdam.API\BilgeAdam.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\turka\source\repos\Kurumsal\Bilgeadam\KET\MVC\BilgeAdam.API\BilgeAdam.DataAccess\obj\Debug\BilgeAdam.DataAccess.csprojAssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Bilgeadam\KET\MVC\BilgeAdam.API\BilgeAdam.DataAccess\obj\Debug\BilgeAdam.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Bilgeadam\KET\MVC\BilgeAdam.API\BilgeAdam.DataAccess\obj\Debug\BilgeAdam.DataAccess.csproj.CopyComplete
+C:\Users\turka\source\repos\Kurumsal\Bilgeadam\KET\MVC\BilgeAdam.API\BilgeAdam.DataAccess\obj\Debug\BilgeAdam.DataAccess.dll
+C:\Users\turka\source\repos\Kurumsal\Bilgeadam\KET\MVC\BilgeAdam.API\BilgeAdam.DataAccess\obj\Debug\BilgeAdam.DataAccess.pdb
